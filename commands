@@ -1,1 +1,6 @@
 Ls -l >>>long listing of files 
+ls -l >>> here - refers to file
+ls -l
+output : -rwxr-xr-x >>> first rwx -means user permissions , second r-x means user group has read and execute permissions not write, similalry 3rd one for others -only read execute not write.
+         drwxr-xr-x >>> It means a directory.
+ll >>> lomg listing of directory
