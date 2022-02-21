@@ -4,3 +4,12 @@ ls -l
 output : -rwxr-xr-x >>> first rwx -means user permissions , second r-x means user group has read and execute permissions not write, similalry 3rd one for others -only read execute not write.
          drwxr-xr-x >>> It means a directory.
 ll >>> lomg listing of directory
+
+mkdir >> to create directory
+
+cp >> used to copy files - cp source destination - cp din.txt din1.txt
+
+cp -rf sourcefolder destination >> used to copy folders
+
+
+         
